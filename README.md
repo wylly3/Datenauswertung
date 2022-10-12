@@ -1,2 +1,3 @@
 # Datenauswertung
- Erstetllt eine Zusammenfassung anhand von Informationen und wertet diese aus  
+ Erstetllt eine Zusammenfassung anhand von Informationen
+
